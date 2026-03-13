@@ -1,0 +1,5 @@
+selenium==4.20.0
+pytest==7.4.0
+pytest-html==4.1.1
+openpyxl      # 如需 Excel 数据驱动
+allure-pytest # 可选：Allure 报告支持

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Python-UI-AutoTest.iml" filepath="$PROJECT_DIR$/.idea/Python-UI-AutoTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/oaProjectWU.iml" filepath="$PROJECT_DIR$/.idea/oaProjectWU.iml" />
     </modules>
   </component>
 </project>
